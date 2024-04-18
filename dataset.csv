@@ -1,205 +1,107 @@
-Name,Brand,Drivetrain,Engine Position,Handling,Acceleration,Braking,Horsepower,Top Speed,Weight (kg),Year of Production
-Ford Focus RS,Ford,AWD,Front,4.3,4.6,3.2,350,266,1550,2017
-Chevrolet Silverado 1500 Trail Boss,Chevrolet,4WD,Front,3.5,7.2,4.7,355,180,2417,2020
-Ram 1500 TRX,Ram,4WD,Front,3.5,4.5,3.4,702,190,2910,2021
-GMC Sierra 1500 AT4,GMC,4WD,Front,3.6,6.1,4.4,420,210,2470,2020
-Jeep Gladiator Rubicon,Jeep,4WD,Front,3.7,7.0,4.5,285,180,2234,2020
-Land Rover Defender 110,Land Rover,4WD,Front,3.8,6.2,4.5,395,188,2393,2020
-Toyota Land Cruiser 70 Series,Toyota,4WD,Front,3.7,8.4,5.2,202,160,1945,2016
-Nissan Titan Warrior Concept,Nissan,4WD,Front,3.6,7.5,5.0,545,200,3630,2016
-Subaru Outback,Subaru,AWD,Front,3.6,9.3,6.1,182,209,1729,2018
-Volvo XC90 T8 R-Design,Volvo,AWD,Front,3.7,5.3,3.9,400,250,2300,2016
-Audi RS Q8,Audi,AWD,Front,4.0,3.8,3.1,591,305,2270,2020
-BMW X5 M Competition,BMW,AWD,Front,4.0,3.8,3.1,617,290,2350,2020
-Mercedes-AMG G63,Mercedes-Benz,AWD,Front,4.0,4.5,3.5,577,220,2489,2018
-Porsche Cayenne Turbo Coupe,Porsche,AWD,Front,4.0,3.9,3.2,541,286,2315,2019
-Tesla Model X P100D,Tesla,AWD,Front,3.7,2.9,2.4,762,250,2499,2018
-Ferrari SF90 Stradale,Ferrari,AWD,Mid,4.7,2.5,2.1,986,340,1570,2019
-Audi RS7 Sportback,Audi,AWD,Front,4.3,3.6,3.0,591,305,2025,2020
-BMW M5 Competition,BMW,AWD,Front,4.5,3.1,2.7,617,305,1935,2020
-Mercedes-AMG E63 S 4MATIC+,Mercedes-Benz,AWD,Front,4.5,3.4,2.8,612,300,2040,2017
-Jaguar F-Type R Coupe,Jaguar,AWD,Front,4.5,3.5,2.9,575,300,1735,2020
-Lamborghini Urus,Lamborghini,AWD,Front,4.5,3.6,2.9,641,305,2200,2018
-Porsche Taycan Turbo S,Porsche,AWD,Front,4.5,2.8,2.4,750,260,2300,2019
-Aston Martin DBX,Aston Martin,AWD,Front,4.5,4.5,3.5,542,291,2245,2020
-Bentley Bentayga Speed,Bentley,AWD,Front,4.5,3.9,3.0,626,306,2467,2019
-Ford Ranger Raptor,Ford,4WD,Front,3.6,7.3,4.6,210,170,2247,2019
-Chevrolet Colorado ZR2,Chevrolet,4WD,Front,3.6,6.0,4.1,308,190,2159,2020
-GMC Canyon AT4,GMC,4WD,Front,3.7,7.5,4.9,308,195,2113,2020
-Jeep Wrangler Rubicon,Jeep,4WD,Front,3.5,8.0,5.2,285,180,1954,2020
-Land Rover Range Rover Sport,Land Rover,4WD,Front,3.7,5.9,4.3,575,280,2415,2020
-Toyota Tacoma TRD Pro,Toyota,4WD,Front,3.5,7.3,4.8,278,180,2140,2020
-Nissan Frontier PRO-4X,Nissan,4WD,Front,3.6,7.3,4.7,310,170,2106,2020
-Subaru Crosstrek,Subaru,AWD,Front,3.6,9.5,6.1,152,183,1505,2021
-Volvo XC60 T8 R-Design,Volvo,AWD,Front,3.7,5.3,3.9,400,250,2300,2020
-Audi RS6 Avant,Audi,AWD,Front,4.0,3.8,3.1,591,305,2270,2020
-BMW X6 M Competition,BMW,AWD,Front,4.0,3.8,3.1,617,290,2350,2020
-Mercedes-AMG G63,Mercedes-Benz,AWD,Front,4.0,4.5,3.5,577,220,2489,2018
-Porsche Cayenne Turbo Coupe,Porsche,AWD,Front,4.0,3.9,3.2,541,286,2315,2019
-Tesla Model X P100D,Tesla,AWD,Front,3.7,2.9,2.4,762,250,2499,2018
-Ferrari SF90 Stradale,Ferrari,AWD,Mid,4.7,2.5,2.1,986,340,1570,2019
-Audi RS7 Sportback,Audi,AWD,Front,4.3,3.6,3.0,591,305,2025,2020
-BMW M5 Competition,BMW,AWD,Front,4.5,3.1,2.7,617,305,1935,2020
-Mercedes-AMG E63 S 4MATIC+,Mercedes-Benz,AWD,Front,4.5,3.4,2.8,612,300,2040,2017
-Jaguar F-Type R Coupe,Jaguar,AWD,Front,4.5,3.5,2.9,575,300,1735,2020
-Lamborghini Urus,Lamborghini,AWD,Front,4.5,3.6,2.9,641,305,2200,2018
-Porsche Taycan Turbo S,Porsche,AWD,Front,4.5,2.8,2.4,750,260,2300,2019
-Aston Martin DBX,Aston Martin,AWD,Front,4.5,4.5,3.5,542,291,2245,2020
-Bentley Bentayga Speed,Bentley,AWD,Front,4.5,3.9,3.0,626,306,2467,2019
-Ford Ranger Raptor,Ford,4WD,Front,3.6,7.3,4.6,210,170,2247,2019
-Chevrolet Colorado ZR2,Chevrolet,4WD,Front,3.6,6.0,4.1,308,190,2159,2020
-GMC Canyon AT4,GMC,4WD,Front,3.7,7.5,4.9,308,195,2113,2020
-Jeep Wrangler Rubicon,Jeep,4WD,Front,3.5,8.0,5.2,285,180,1954,2020
-Land Rover Range Rover Sport,Land Rover,4WD,Front,3.7,5.9,4.3,575,280,2415,2020
-Toyota Tacoma TRD Pro,Toyota,4WD,Front,3.5,7.3,4.8,278,180,2140,2020
-Nissan Frontier PRO-4X,Nissan,4WD,Front,3.6,7.3,4.7,310,170,2106,2020
-Subaru Crosstrek,Subaru,AWD,Front,3.6,9.5,6.1,152,183,1505,2021
-Volvo XC60 T8 R-Design,Volvo,AWD,Front,3.7,5.3,3.9,400,250,2300,2020
-Audi RS6 Avant,Audi,AWD,Front,4.0,3.8,3.1,591,305,2270,2020
-BMW X6 M Competition,BMW,AWD,Front,4.0,3.8,3.1,617,290,2350,2020
-Mercedes-AMG G63,Mercedes-Benz,AWD,Front,4.0,4.5,3.5,577,220,2489,2018
-Porsche Cayenne Turbo Coupe,Porsche,AWD,Front,4.0,3.9,3.2,541,286,2315,2019
-Tesla Model X P100D,Tesla,AWD,Front,3.7,2.9,2.4,762,250,2499,2018
-Ferrari SF90 Stradale,Ferrari,AWD,Mid,4.7,2.5,2.1,986,340,1570,2019
-Audi RS7 Sportback,Audi,AWD,Front,4.3,3.6,3.0,591,305,2025,2020
-BMW M5 Competition,BMW,AWD,Front,4.5,3.1,2.7,617,305,1935,2020
-Mercedes-AMG E63 S 4MATIC+,Mercedes-Benz,AWD,Front,4.5,3.4,2.8,612,300,2040,2017
-Jaguar F-Type R Coupe,Jaguar,AWD,Front,4.5,3.5,2.9,575,300,1735,2020
-Lamborghini Urus,Lamborghini,AWD,Front,4.5,3.6,2.9,641,305,2200,2018
-Porsche Taycan Turbo S,Porsche,AWD,Front,4.5,2.8,2.4,750,260,2300,2019
-Aston Martin DBX,Aston Martin,AWD,Front,4.5,4.5,3.5,542,291,2245,2020
-Bentley Bentayga Speed,Bentley,AWD,Front,4.5,3.9,3.0,626,306,2467,2019
-Ford Ranger Raptor,Ford,4WD,Front,3.6,7.3,4.6,210,170,2247,2019
-Chevrolet Colorado ZR2,Chevrolet,4WD,Front,3.6,6.0,4.1,308,190,2159,2020
-GMC Canyon AT4,GMC,4WD,Front,3.7,7.5,4.9,308,195,2113,2020
-Jeep Wrangler Rubicon,Jeep,4WD,Front,3.5,8.0,5.2,285,180,1954,2020
-Land Rover Range Rover Sport,Land Rover,4WD,Front,3.7,5.9,4.3,575,280,2415,2020
-Toyota Tacoma TRD Pro,Toyota,4WD,Front,3.5,7.3,4.8,278,180,2140,2020
-Nissan Frontier PRO-4X,Nissan,4WD,Front,3.6,7.3,4.7,310,170,2106,2020
-Subaru Crosstrek,Subaru,AWD,Front,3.6,9.5,6.1,152,183,1505,2021
-Volvo XC60 T8 R-Design,Volvo,AWD,Front,3.7,5.3,3.9,400,250,2300,2020
-Audi RS6 Avant,Audi,AWD,Front,4.0,3.8,3.1,591,305,2270,2020
-BMW X6 M Competition,BMW,AWD,Front,4.0,3.8,3.1,617,290,2350,2020
-Mercedes-AMG G63,Mercedes-Benz,AWD,Front,4.0,4.5,3.5,577,220,2489,2018
-Porsche Cayenne Turbo Coupe,Porsche,AWD,Front,4.0,3.9,3.2,541,286,2315,2019
-Tesla Model X P100D,Tesla,AWD,Front,3.7,2.9,2.4,762,250,2499,2018
-Ferrari SF90 Stradale,Ferrari,AWD,Mid,4.7,2.5,2.1,986,340,1570,2019
-Audi RS7 Sportback,Audi,AWD,Front,4.3,3.6,3.0,591,305,2025,2020
-BMW M5 Competition,BMW,AWD,Front,4.5,3.1,2.7,617,305,1935,2020
-Mercedes-AMG E63 S 4MATIC+,Mercedes-Benz,AWD,Front,4.5,3.4,2.8,612,300,2040,2017
-Jaguar F-Type R Coupe,Jaguar,AWD,Front,4.5,3.5,2.9,575,300,1735,2020
-Lamborghini Urus,Lamborghini,AWD,Front,4.5,3.6,2.9,641,305,2200,2018
-Porsche Taycan Turbo S,Porsche,AWD,Front,4.5,2.8,2.4,750,260,2300,2019
-Aston Martin DBX,Aston Martin,AWD,Front,4.5,4.5,3.5,542,291,2245,2020
-Bentley Bentayga Speed,Bentley,AWD,Front,4.5,3.9,3.0,626,306,2467,2019
-Ford Ranger Raptor,Ford,4WD,Front,3.6,7.3,4.6,210,170,2247,2019
-Chevrolet Colorado ZR2,Chevrolet,4WD,Front,3.6,6.0,4.1,308,190,2159,2020
-GMC Canyon AT4,GMC,4WD,Front,3.7,7.5,4.9,308,195,2113,2020
-Jeep Wrangler Rubicon,Jeep,4WD,Front,3.5,8.0,5.2,285,180,1954,2020
-Land Rover Range Rover Sport,Land Rover,4WD,Front,3.7,5.9,4.3,575,280,2415,2020
-Toyota Tacoma TRD Pro,Toyota,4WD,Front,3.5,7.3,4.8,278,180,2140,2020
-Nissan Frontier PRO-4X,Nissan,4WD,Front,3.6,7.3,4.7,310,170,2106,2020
-Subaru Crosstrek,Subaru,AWD,Front,3.6,9.5,6.1,152,183,1505,2021
-Volvo XC60 T8 R-Design,Volvo,AWD,Front,3.7,5.3,3.9,400,250,2300,2020
-Audi RS6 Avant,Audi,AWD,Front,4.0,3.8,3.1,591,305,2270,2020
-BMW X6 M Competition,BMW,AWD,Front,4.0,3.8,3.1,617,290,2350,2020
-Mercedes-AMG G63,Mercedes-Benz,AWD,Front,4.0,4.5,3.5,577,220,2489,2018
-Porsche Cayenne Turbo Coupe,Porsche,AWD,Front,4.0,3.9,3.2,541,286,2315,2019
-Tesla Model X P100D,Tesla,AWD,Front,3.7,2.9,2.4,762,250,2499,2018
-Ferrari SF90 Stradale,Ferrari,AWD,Mid,4.7,2.5,2.1,986,340,1570,2019
-Audi RS7 Sportback,Audi,AWD,Front,4.3,3.6,3.0,591,305,2025,2020
-BMW M5 Competition,BMW,AWD,Front,4.5,3.1,2.7,617,305,1935,2020
-Mercedes-AMG E63 S 4MATIC+,Mercedes-Benz,AWD,Front,4.5,3.4,2.8,612,300,2040,2017
-Jaguar F-Type R Coupe,Jaguar,AWD,Front,4.5,3.5,2.9,575,300,1735,2020
-Lamborghini Urus,Lamborghini,AWD,Front,4.5,3.6,2.9,641,305,2200,2018
-Porsche Taycan Turbo S,Porsche,AWD,Front,4.5,2.8,2.4,750,260,2300,2019
-Aston Martin DBX,Aston Martin,AWD,Front,4.5,4.5,3.5,542,291,2245,2020
-Bentley Bentayga Speed,Bentley,AWD,Front,4.5,3.9,3.0,626,306,2467,2019
-Ford Ranger Raptor,Ford,4WD,Front,3.6,7.3,4.6,210,170,2247,2019
-Chevrolet Colorado ZR2,Chevrolet,4WD,Front,3.6,6.0,4.1,308,190,2159,2020
-GMC Canyon AT4,GMC,4WD,Front,3.7,7.5,4.9,308,195,2113,2020
-Jeep Wrangler Rubicon,Jeep,4WD,Front,3.5,8.0,5.2,285,180,1954,2020
-Land Rover Range Rover Sport,Land Rover,4WD,Front,3.7,5.9,4.3,575,280,2415,2020
-Toyota Tacoma TRD Pro,Toyota,4WD,Front,3.5,7.3,4.8,278,180,2140,2020
-Nissan Frontier PRO-4X,Nissan,4WD,Front,3.6,7.3,4.7,310,170,2106,2020
-Subaru Crosstrek,Subaru,AWD,Front,3.6,9.5,6.1,152,183,1505,2021
-Volvo XC60 T8 R-Design,Volvo,AWD,Front,3.7,5.3,3.9,400,250,2300,2020
-Audi RS6 Avant,Audi,AWD,Front,4.0,3.8,3.1,591,305,2270,2020
-BMW X6 M Competition,BMW,AWD,Front,4.0,3.8,3.1,617,290,2350,2020
-Mercedes-AMG G63,Mercedes-Benz,AWD,Front,4.0,4.5,3.5,577,220,2489,2018
-Porsche Cayenne Turbo Coupe,Porsche,AWD,Front,4.0,3.9,3.2,541,286,2315,2019
-Tesla Model X P100D,Tesla,AWD,Front,3.7,2.9,2.4,762,250,2499,2018
-Ferrari SF90 Stradale,Ferrari,AWD,Mid,4.7,2.5,2.1,986,340,1570,2019
-Audi RS7 Sportback,Audi,AWD,Front,4.3,3.6,3.0,591,305,2025,2020
-BMW M5 Competition,BMW,AWD,Front,4.5,3.1,2.7,617,305,1935,2020
-Mercedes-AMG E63 S 4MATIC+,Mercedes-Benz,AWD,Front,4.5,3.4,2.8,612,300,2040,2017
-Jaguar F-Type R Coupe,Jaguar,AWD,Front,4.5,3.5,2.9,575,300,1735,2020
-Lamborghini Urus,Lamborghini,AWD,Front,4.5,3.6,2.9,641,305,2200,2018
-Porsche Taycan Turbo S,Porsche,AWD,Front,4.5,2.8,2.4,750,260,2300,2019
-Aston Martin DBX,Aston Martin,AWD,Front,4.5,4.5,3.5,542,291,2245,2020
-Bentley Bentayga Speed,Bentley,AWD,Front,4.5,3.9,3.0,626,306,2467,2019
-Ford Ranger Raptor,Ford,4WD,Front,3.6,7.3,4.6,210,170,2247,2019
-Chevrolet Colorado ZR2,Chevrolet,4WD,Front,3.6,6.0,4.1,308,190,2159,2020
-GMC Canyon AT4,GMC,4WD,Front,3.7,7.5,4.9,308,195,2113,2020
-Jeep Wrangler Rubicon,Jeep,4WD,Front,3.5,8.0,5.2,285,180,1954,2020
-Land Rover Range Rover Sport,Land Rover,4WD,Front,3.7,5.9,4.3,575,280,2415,2020
-Toyota Tacoma TRD Pro,Toyota,4WD,Front,3.5,7.3,4.8,278,180,2140,2020
-Nissan Frontier PRO-4X,Nissan,4WD,Front,3.6,7.3,4.7,310,170,2106,2020
-Subaru Crosstrek,Subaru,AWD,Front,3.6,9.5,6.1,152,183,1505,2021
-Volvo XC60 T8 R-Design,Volvo,AWD,Front,3.7,5.3,3.9,400,250,2300,2020
-Audi RS6 Avant,Audi,AWD,Front,4.0,3.8,3.1,591,305,2270,2020
-BMW X6 M Competition,BMW,AWD,Front,4.0,3.8,3.1,617,290,2350,2020
-Mercedes-AMG G63,Mercedes-Benz,AWD,Front,4.0,4.5,3.5,577,220,2489,2018
-Porsche Cayenne Turbo Coupe,Porsche,AWD,Front,4.0,3.9,3.2,541,286,2315,2019
-Tesla Model X P100D,Tesla,AWD,Front,3.7,2.9,2.4,762,250,2499,2018
-Ferrari SF90 Stradale,Ferrari,AWD,Mid,4.7,2.5,2.1,986,340,1570,2019
-Audi RS7 Sportback,Audi,AWD,Front,4.3,3.6,3.0,591,305,2025,2020
-BMW M5 Competition,BMW,AWD,Front,4.5,3.1,2.7,617,305,1935,2020
-Mercedes-AMG E63 S 4MATIC+,Mercedes-Benz,AWD,Front,4.5,3.4,2.8,612,300,2040,2017
-Jaguar F-Type R Coupe,Jaguar,AWD,Front,4.5,3.5,2.9,575,300,1735,2020
-Lamborghini Urus,Lamborghini,AWD,Front,4.5,3.6,2.9,641,305,2200,2018
-Porsche Taycan Turbo S,Porsche,AWD,Front,4.5,2.8,2.4,750,260,2300,2019
-Aston Martin DBX,Aston Martin,AWD,Front,4.5,4.5,3.5,542,291,2245,2020
-Bentley Bentayga Speed,Bentley,AWD,Front,4.5,3.9,3.0,626,306,2467,2019
-Ford Ranger Raptor,Ford,4WD,Front,3.6,7.3,4.6,210,170,2247,2019
-Chevrolet Colorado ZR2,Chevrolet,4WD,Front,3.6,6.0,4.1,308,190,2159,2020
-GMC Canyon AT4,GMC,4WD,Front,3.7,7.5,4.9,308,195,2113,2020
-Jeep Wrangler Rubicon,Jeep,4WD,Front,3.5,8.0,5.2,285,180,1954,2020
-Land Rover Range Rover Sport,Land Rover,4WD,Front,3.7,5.9,4.3,575,280,2415,2020
-Toyota Tacoma TRD Pro,Toyota,4WD,Front,3.5,7.3,4.8,278,180,2140,2020
-Nissan Frontier PRO-4X,Nissan,4WD,Front,3.6,7.3,4.7,310,170,2106,2020
-Subaru Crosstrek,Subaru,AWD,Front,3.6,9.5,6.1,152,183,1505,2021
-Volvo XC60 T8 R-Design,Volvo,AWD,Front,3.7,5.3,3.9,400,250,2300,2020
-Audi RS6 Avant,Audi,AWD,Front,4.0,3.8,3.1,591,305,2270,2020
-BMW X6 M Competition,BMW,AWD,Front,4.0,3.8,3.1,617,290,2350,2020
-Mercedes-AMG G63,Mercedes-Benz,AWD,Front,4.0,4.5,3.5,577,220,2489,2018
-Porsche Cayenne Turbo Coupe,Porsche,AWD,Front,4.0,3.9,3.2,541,286,2315,2019
-Tesla Model X P100D,Tesla,AWD,Front,3.7,2.9,2.4,762,250,2499,2018
-Ferrari SF90 Stradale,Ferrari,AWD,Mid,4.7,2.5,2.1,986,340,1570,2019
-Audi RS7 Sportback,Audi,AWD,Front,4.3,3.6,3.0,591,305,2025,2020
-BMW M5 Competition,BMW,AWD,Front,4.5,3.1,2.7,617,305,1935,2020
-Mercedes-AMG E63 S 4MATIC+,Mercedes-Benz,AWD,Front,4.5,3.4,2.8,612,300,2040,2017
-Jaguar F-Type R Coupe,Jaguar,AWD,Front,4.5,3.5,2.9,575,300,1735,2020
-Lamborghini Urus,Lamborghini,AWD,Front,4.5,3.6,2.9,641,305,2200,2018
-Porsche Taycan Turbo S,Porsche,AWD,Front,4.5,2.8,2.4,750,260,2300,2019
-Aston Martin DBX,Aston Martin,AWD,Front,4.5,4.5,3.5,542,291,2245,2020
-Bentley Bentayga Speed,Bentley,AWD,Front,4.5,3.9,3.0,626,306,2467,2019
-Ford Ranger Raptor,Ford,4WD,Front,3.6,7.3,4.6,210,170,2247,2019
-Chevrolet Colorado ZR2,Chevrolet,4WD,Front,3.6,6.0,4.1,308,190,2159,2020
-GMC Canyon AT4,GMC,4WD,Front,3.7,7.5,4.9,308,195,2113,2020
-Jeep Wrangler Rubicon,Jeep,4WD,Front,3.5,8.0,5.2,285,180,1954,2020
-Land Rover Range Rover Sport,Land Rover,4WD,Front,3.7,5.9,4.3,575,280,2415,2020
-Toyota Tacoma TRD Pro,Toyota,4WD,Front,3.5,7.3,4.8,278,180,2140,2020
-Nissan Frontier PRO-4X,Nissan,4WD,Front,3.6,7.3,4.7,310,170,2106,2020
-Subaru Crosstrek,Subaru,AWD,Front,3.6,9.5,6.1,152,183,1505,2021
-Volvo XC60 T8 R-Design,Volvo,AWD,Front,3.7,5.3,3.9,400,250,2300,2020
-Audi RS6 Avant,Audi,AWD,Front,4.0,3.8,3.1,591,305,2270,2020
-BMW X6 M Competition,BMW,AWD,Front,4.0,3.8,3.1,617,290,2350,2020
-Mercedes-AMG G63,Mercedes-Benz,AWD,Front,4.0,4.5,3.5,577,220,2489,2018
-Porsche Cayenne Turbo Coupe,Porsche,AWD,Front,4.0,3.9,3.2,541,286,2315,2019
-Tesla Model X P100D,Tesla,AWD,Front,3.7,2.9,2.4,762,250,2499,2018
-Ferrari SF90 Stradale,Ferrari,AWD,Mid,4.7,2.5,2.1,986,340,1570,2019
-Audi RS7 Sportback,Audi,AWD,Front,4.3,3.6,3.0,591,305,2025,2020
-BMW M5 Competition,BMW,AWD,Front,4.5,3.1,2.7,617,305,1935,2020
-Mercedes-AMG E63 S 4MATIC+,Mercedes-Benz,AWD,Front,4.5,3.4,2.8,612,300,2040,2017
-Jaguar F-Type R Coupe,Jaguar,AWD,Front,4.5,3.5,2.9,575,300,1735,202
+model,brand,drivetrain,engine_position,handling,acceleration,braking,horsepower,top_speed,weight_kg,year_of_production
+911 GT2 RS,Porsche,Rear-Wheel Drive,RR,80,3.5,2.8,700,340,1470,2018
+Agera RS,Koenigsegg,Rear-Wheel Drive,MR,90,2.8,2.3,1160,447,1395,2017
+Aventador LP 700-4,Lamborghini,All-Wheel Drive,MR,85,2.9,2.7,700,350,1575,2011
+Chiron,Bugatti,All-Wheel Drive,MF,90,2.5,2.5,1479,420,1995,2016
+Civic Type R,Honda,Front-Wheel Drive,FF,75,5.7,3.1,320,270,1380,2017
+Corvette ZR1,Chevrolet,Rear-Wheel Drive,FR,80,3.0,2.7,755,341,1600,2019
+DB11,Aston Martin,Rear-Wheel Drive,FR,85,3.9,2.7,600,322,1870,2016
+F40,Ferrari,Rear-Wheel Drive,MR,85,4.1,2.9,478,324,1100,1987
+Fiesta ST,Ford,Front-Wheel Drive,FF,70,6.5,3.0,200,230,1200,2018
+Focus RS,Ford,All-Wheel Drive,FF,75,4.7,2.5,350,270,1599,2016
+FXX-K Evo,Ferrari,Rear-Wheel Drive,MR,90,2.5,2.0,1036,349,1285,2017
+Huracán Performante,Lamborghini,All-Wheel Drive,MR,85,2.9,2.7,631,325,1382,2017
+i20 N,Hyundai,Front-Wheel Drive,FF,70,6.5,3.0,204,230,1190,2021
+LaFerrari,Ferrari,Rear-Wheel Drive,MR,90,2.6,2.6,950,350,1255,2013
+M2 Competition,BMW,Rear-Wheel Drive,FR,80,4.2,2.8,410,280,1575,2018
+M3 GTR,BMW,Rear-Wheel Drive,FR,85,3.5,2.7,500,295,1350,2001
+Model 3 Performance,Tesla,All-Wheel Drive,MF,75,3.2,2.8,450,261,1847,2018
+P1,Gordon Murray,Rear-Wheel Drive,MR,90,2.8,2.8,916,350,1480,2014
+R8 V10 Plus,Audi,All-Wheel Drive,MR,85,3.2,2.7,610,330,1595,2016
+Regera,Koenigsegg,Rear-Wheel Drive,MF,90,2.7,2.5,1500,410,1590,2016
+RS 3 Sportback,Audi,All-Wheel Drive,FF,75,4.5,2.7,400,250,1510,2017
+RS 6 Avant,Audi,All-Wheel Drive,FR,80,3.6,2.8,600,250,2040,2020
+RS 7 Sportback,Audi,All-Wheel Drive,FR,80,3.5,2.7,600,250,1995,2020
+Senna,McLaren,Rear-Wheel Drive,MR,90,2.8,2.7,800,335,1198,2018
+Supra MKIV,Toyota,Rear-Wheel Drive,FF,75,4.5,2.9,330,250,1530,1998
+Veyron,Bugatti,All-Wheel Drive,MF,90,2.7,2.8,1001,407,1888,2005
+488 Pista,Ferrari,Rear-Wheel Drive,MR,90,2.8,2.6,710,340,1385,2018
+A45 AMG,Mercedes-Benz,All-Wheel Drive,FF,80,4.0,2.9,421,270,1555,2013
+Agera R,Koenigsegg,Rear-Wheel Drive,MR,90,2.8,2.5,1140,420,1330,2011
+Camaro ZL1,Chevrolet,Rear-Wheel Drive,FR,80,3.7,2.8,650,320,1710,2017
+Civic Type R 2004,Honda,Front-Wheel Drive,FF,70,6.2,3.2,212,232,1240,2004
+Clio RS,Renault,Front-Wheel Drive,FF,70,6.7,3.2,197,230,1204,2016
+Contach LP500S,Lamborghini,Rear-Wheel Drive,MR,80,4.8,3.1,375,300,1370,1982
+Cooper S,MINI,Front-Wheel Drive,FF,70,6.5,3.0,189,240,1265,2018
+DBS,Aston Martin,Rear-Wheel Drive,FR,85,4.0,2.9,510,320,1810,2012
+Evora GT430,Lotus,Rear-Wheel Drive,MR,85,3.8,2.6,430,305,1299,2017
+F-Type R Coupe,Jaguar,Rear-Wheel Drive,FR,80,4.0,2.9,550,300,1730,2015
+FF,Lamborghini,All-Wheel Drive,MF,80,3.5,2.8,700,335,1790,2011
+Fiesta XR2,Ford,Front-Wheel Drive,FF,70,7.0,3.2,96,180,860,1984
+Focus RS 2017,Ford,All-Wheel Drive,FF,75,4.7,2.5,350,270,1599,2017
+FXX-K,Ferrari,Rear-Wheel Drive,MR,90,2.6,2.1,1036,349,1285,2015
+Gallardo LP 570-4,Lamborghini,All-Wheel Drive,MF,80,3.7,2.8,562,325,1410,2011
+GT3 RS 4.0,Porsche,Rear-Wheel Drive,MR,85,3.8,2.7,500,310,1360,2011
+GTR Nismo,Nissan,Rear-Wheel Drive,FR,80,3.2,2.7,600,315,1720,2017
+Huracán LP 610-4,Lamborghini,All-Wheel Drive,MR,85,3.2,2.5,610,325,1422,2014
+i30 N,Hyundai,Front-Wheel Drive,FF,70,6.4,3.1,275,250,1400,2018
+i8,BMW,All-Wheel Drive,MF,75,4.2,2.6,369,250,1485,2014
+Lancer Evolution IX,Mitsubishi,All-Wheel Drive,FF,75,4.8,2.8,286,250,1470,2006
+LP640-4,Lamborghini,All-Wheel Drive,MF,85,3.3,2.6,640,340,1746,2006
+M1,BMW,Rear-Wheel Drive,MR,80,4.5,2.8,277,262,1300,1978
+M3 E30,BMW,Rear-Wheel Drive,FR,85,4.9,2.9,195,235,1200,1986
+M3 E92,BMW,Rear-Wheel Drive,FR,85,4.3,2.9,420,250,1655,2012
+M5 E39,BMW,Rear-Wheel Drive,FR,85,4.5,2.9,400,250,1795,2003
+M6 Coupe,BMW,Rear-Wheel Drive,FR,85,4.3,2.9,560,305,1850,2013
+Miata MX-5,Mazda,Rear-Wheel Drive,FR,75,7.5,3.1,155,214,1075,1994
+Murciélago LP 670-4 SV,Lamborghini,All-Wheel Drive,MR,85,3.2,2.7,670,342,1665,2009
+MX-5 1994,Mazda,Rear-Wheel Drive,FR,75,7.5,3.1,155,214,1075,1994
+Mégane RS,Renault,Front-Wheel Drive,FF,75,5.8,3.0,250,250,1397,2018
+NSX 1991,Honda,All-Wheel Drive,MR,80,5.5,3.0,270,270,1357,1991
+One-77,Aston Martin,Rear-Wheel Drive,FR,85,3.8,2.9,750,354,1630,2011
+P1 GTR,Gordon Murray,Rear-Wheel Drive,MR,90,2.5,2.5,986,225,1440,2015
+Quattro,Audi,All-Wheel Drive,MF,80,3.5,2.8,200,222,1280,1980
+RS3,Audi,All-Wheel Drive,FF,75,4.5,2.7,400,250,1510,2017
+RS4,Audi,All-Wheel Drive,FF,75,4.5,2.8,450,280,1715,2020
+RS5,Audi,All-Wheel Drive,FF,75,4.5,2.8,450,280,1685,2020
+RS6,Audi,All-Wheel Drive,FR,80,3.6,2.8,560,305,2025,2019
+RS7,Audi,All-Wheel Drive,FR,80,3.5,2.7,600,250,1995,2019
+R8,Audi,All-Wheel Drive,MR,85,3.2,2.7,610,330,1595,2016
+Raptor,Ford,All-Wheel Drive,FR,75,5.2,3.1,450,250,2590,2017
+Raptor 2017,Ford,All-Wheel Drive,FR,75,5.2,3.1,450,250,2590,2017
+Raptor Ranger,Ford,All-Wheel Drive,FR,75,5.2,3.1,450,250,2590,2017
+RX-7,Mazda,Rear-Wheel Drive,FR,80,5.1,2.9,276,250,1300,1997
+S1,Audi,All-Wheel Drive,FF,75,4.5,2.8,231,250,1340,2014
+S2, Audi, All-Wheel Drive, FF, 75, 4.5, 2.8, 231, 250, 1340, 2014
+S3,Audi,All-Wheel Drive,FF,75,4.5,2.8,310,250,1450,2014
+S4,Audi,All-Wheel Drive,FF,75,4.5,2.8,354,250,1610,2019
+S5,Audi,All-Wheel Drive,FF,75,4.5,2.8,354,250,1685,2019
+S6,Audi,All-Wheel Drive,FF,75,4.5,2.8,450,250,2025,2019
+S7,Audi,All-Wheel Drive,FF,75,4.5,2.8,450,250,1995,2019
+S8,Audi,All-Wheel Drive,FF,75,4.5,2.8,571,250,2200,2019
+Senna GTR,McLaren,Rear-Wheel Drive,MR,90,2.8,2.7,814,335,1188,2019
+Speedtail,McLaren,Rear-Wheel Drive,MR,85,2.5,2.5,1070,402,1430,2020
+Supra GR,Toyota,Rear-Wheel Drive,FR,80,4.3,2.8,340,250,1490,2019
+TT RS,Audi,All-Wheel Drive,FF,75,4.5,2.8,400,250,1395,2017
+TT RS 2017,Audi,All-Wheel Drive,FF,75,4.5,2.8,400,250,1395,2017
+Turbo 3.0,Porsche,Rear-Wheel Drive,MR,85,3.4,2.7,260,253,1370,1975
+Turbo S E-Hybrid,Porsche,All-Wheel Drive,MF,80,3.6,2.8,680,315,2370,2018
+Twingo RS,Renault,Rear-Wheel Drive,MR,80,6.5,3.0,133,181,1050,2009
+Urus,Lamborghini,All-Wheel Drive,MF,80,3.6,2.8,641,305,2200,2018
+Vantage,Aston Martin,Rear-Wheel Drive,FR,85,3.8,2.9,510,330,1630,2018
+Viper SRT10,Dodge,Rear-Wheel Drive,FR,80,3.8,2.8,600,330,1530,2008
+Viper SRT10 ACR,Dodge,Rear-Wheel Drive,FR,85,3.6,2.8,600,330,1530,2008
+Viper SRT10 Coupe,Dodge,Rear-Wheel Drive,FR,80,3.8,2.8,600,330,1530,2008
+Viper SRT10 Roadster,Dodge,Rear-Wheel Drive,FR,80,3.8,2.8,600,330,1530,2008
+Viper SRT10 SRT,Dodge,Rear-Wheel Drive,FR,80,3.8,2.8,600,330,1530,2008
+X-Bow R,KTM,Rear-Wheel Drive,MR,85,3.2,2.6,300,220,790,2011
+X5 M,BMW,All-Wheel Drive,FR,80,4.0,3.0,575,290,2305,2018
+Z4 M40i,BMW,Rear-Wheel Drive,FR,85,4.6,3.0,340,250,1490,2018
+Zonda Cinque,Pagani,Rear-Wheel Drive,MR,85,3.4,2.7,678,349,1210,2009
+Zonda F,Pagani,Rear-Wheel Drive,MR,85,3.4,2.7,602,345,1230,2005
+Zonda R,Pagani,Rear-Wheel Drive,MR,90,2.6,2.5,750,350,1070,2009
+Zonda Tricolore,Pagani,Rear-Wheel Drive,MR,85,3.4,2.7,670,345,1210,2010
+RS 3 2017,Audi,All-Wheel Drive,FF,75,4.5,2.7,400,250,1510,2017
+M8 Competition,BMW,Rear-Wheel Drive,FR,85,3.3,2.8,625,305,1935,2019
+Veyron 16.4,Bugatti,All-Wheel Drive,MF,90,2.7,2.8,1001,407,1888,2005
+DBS Superleggera,Aston Martin,Rear-Wheel Drive,FR,85,3.8,2.9,715,340,1693,2018
