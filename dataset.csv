@@ -1,6 +1,6 @@
 model,brand,drivetrain,engine_position,handling,acceleration,braking,horsepower,top_speed,weight,year_of_production
 911 GT3 RS,Porsche,RWD,Rear,8.5,8.7,9.0,520,310,1350,2022
-M3 BMW,RWD,Front,8.2,7.8,8.5,480,300,1600,2023
+M3 BMW,BMW,RWD,Front,8.2,7.8,8.5,480,300,1600,2023
 Aventador LP700-4,Lamborghini,AWD,Mid,9.0,8.5,9.0,690,350,1600,2021
 Civic Type R,Honda,FWD,Front,8.0,7.0,7.5,320,270,1400,2022
 F-150 Raptor,Ford,4WD,Front,7.5,8.0,7.5,450,250,2400,2023
