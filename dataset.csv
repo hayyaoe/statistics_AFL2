@@ -1,113 +1,120 @@
 model,brand,drivetrain,engine_position,handling,acceleration,braking,horsepower,top_speed,weight,year_of_production
 911 GT3 RS,Porsche,RWD,Rear,8.5,8.7,9.0,520,310,1350,2022
-M3 BMW,BMW,RWD,Front,8.2,7.8,8.5,480,300,1600,2023
-Aventador LP700-4,Lamborghini,AWD,Mid,9.0,8.5,9.0,690,350,1600,2021
-Civic Type R,Honda,FWD,Front,8.0,7.0,7.5,320,270,1400,2022
-F-150 Raptor,Ford,4WD,Front,7.5,8.0,7.5,450,250,2400,2023
-AMG GT 4-Door Coupe,Mercedes-Benz,RWD,Front,8.3,8.2,8.5,630,310,1800,2022
-Corvette ZR1,Chevrolet,RWD,Front,8.6,8.5,9.0,750,330,1600,2023
-GT-R Nismo,Nissan,AWD,Front,8.8,8.3,8.6,600,320,1700,2021
-Viper SRT,Dodge,RWD,Front,8.4,8.6,8.8,640,320,1550,2022
-WRX STI,Subaru,AWD,Front,7.8,7.0,7.2,310,260,1500,2023
-Mustang GT,Ford,RWD,Front,8.0,8.5,8.0,460,250,1700,2021
-Chiron,Bugatti,AWD,Mid,9.5,9.8,9.5,1500,420,1900,2023
-F-150 Lightning,Ford,4WD,Front,7.0,8.2,7.0,400,180,2300,2022
-Veloster N,Hyundai,FWD,Front,7.5,7.2,7.5,275,250,1400,2022
-Civic Hatchback,Honda,FWD,Front,7.0,7.5,7.0,180,220,1300,2023
-Explorer,Toyota,AWD,Front,6.5,8.0,6.5,290,230,2000,2022
-Bronco,Ford,4WD,Front,7.2,7.8,7.0,330,240,1800,2022
-Camry,Toyota,FWD,Front,6.8,7.0,6.5,200,210,1500,2023
-X5,Mercedes-Benz,RWD,Front,7.5,7.2,7.5,250,230,1900,2022
-Golf GTI,Volkswagen,FWD,Front,7.2,7.0,7.0,240,230,1400,2023
-F-250,Ford,4WD,Front,6.8,7.5,6.8,350,180,2500,2022
-Cherokee,Jeep,AWD,Front,6.5,6.8,6.0,270,220,2000,2023
-Ram 1500,Chrysler,4WD,Front,6.2,7.0,6.5,320,210,2200,2022
-RAV4,Toyota,AWD,Front,6.0,7.5,6.0,220,200,1600,2023
-Camaro ZL1,Chevrolet,RWD,Front,8.2,8.7,8.5,650,320,1700,2021
-Cayenne,Porsche,AWD,Front,7.0,7.5,7.0,340,260,2200,2022
-Q50,Infiniti,RWD,Front,7.5,7.0,7.5,300,250,1700,2023
-Tacoma,Toyota,4WD,Front,6.5,7.2,6.5,280,180,2000,2022
-Altima,Nissan,FWD,Front,6.0,7.0,6.0,200,210,1500,2023
-Accord,Honda,FWD,Front,6.5,6.8,6.2,190,210,1600,2022
-Tahoe,Chevrolet,4WD,Front,6.0,7.0,6.5,360,220,2500,2022
-Ascent,Subaru,AWD,Front,6.8,7.2,6.8,260,200,1800,2023
-X7,Mercedes-Benz,AWD,Front,7.2,7.0,7.2,400,250,2300,2022
-Ranger,Ford,4WD,Front,6.0,7.5,6.0,270,180,1900,2022
-Crosstrek,Subaru,AWD,Front,6.2,6.8,6.5,180,190,1400,2023
-Charger,Dodge,RWD,Front,7.0,7.5,7.0,370,250,1800,2022
-Silverado,Chevrolet,4WD,Front,6.0,7.0,6.5,340,220,2200,2022
-S-Class,Mercedes-Benz,RWD,Front,8.0,8.0,8.0,400,250,2000,2023
-A6,Audi,AWD,Front,7.5,7.2,7.5,350,240,1900,2022
-M5,BMW,RWD,Front,8.0,8.5,8.0,600,280,1800,2022
-GLC,Mercedes-Benz,AWD,Front,7.2,7.0,7.2,300,240,1800,2023
-F-350,Ford,4WD,Front,6.0,7.5,6.0,400,180,2700,2022
-Grand Cherokee,Jeep,4WD,Front,6.5,7.0,6.5,350,220,2300,2022
-Outback,Subaru,AWD,Front,6.5,7.0,6.5,250,210,1600,2023
-G-Class,Mercedes-Benz,AWD,Front,6.8,7.2,6.8,400,220,2500,2022
-Navigator,Lincoln,4WD,Front,6.0,7.2,6.0,450,220,2600,2022
-A8,Audi,AWD,Front,7.8,8.0,7.8,400,250,2100,2023
-S5,Audi,AWD,Front,7.2,7.0,7.2,350,250,1700,2022
-XT6,Cadillac,AWD,Front,6.5,7.2,6.5,300,220,2000,2022
-Tundra,Toyota,4WD,Front,6.0,7.5,6.0,380,200,2300,2023
-Q7,Audi,AWD,Front,7.0,7.2,7.0,330,230,2100,2022
-Gladiator,Jeep,4WD,Front,6.2,7.0,6.2,285,200,2100,2022
-ES,Lexus,FWD,Front,6.2,6.8,6.2,210,200,1600,2023
-XT5,Cadillac,FWD,Front,6.0,7.0,6.0,250,210,1800,2022
-MDX,Acura,AWD,Front,6.5,7.0,6.5,290,220,1900,2022
-Q3,Audi,AWD,Front,6.8,7.2,6.8,250,220,1700,2023
-Explorer ST,Toyota,AWD,Front,7.2,7.5,7.2,400,240,1900,2022
-GLA,Mercedes-Benz,AWD,Front,6.5,7.0,6.5,220,200,1500,2022
-X3,Mercedes-Benz,AWD,Front,7.0,7.2,7.0,300,230,1800,2023
-Highlander,Toyota,AWD,Front,6.5,7.0,6.5,270,220,1800,2022
-XT4,Cadillac,AWD,Front,6.0,7.0,6.0,240,210,1700,2022
-Mazda 3,Mazda,FWD,Front,6.0,6.5,6.0,180,200,1400,2023
-Edge,Ford,AWD,Front,6.2,6.8,6.2,250,220,1800,2022
-Q5,Audi,AWD,Front,6.8,7.2,6.8,280,230,1800,2022
-Telluride,Kia,AWD,Front,6.0,7.0,6.0,290,220,1900,2023
-XTS,Cadillac,FWD,Front,6.0,6.8,6.0,300,230,1700,2022
-Wrangler,Jeep,4WD,Front,6.2,7.0,6.2,270,200,1800,2022
-Ghibli,Maserati,RWD,Front,6.5,7.0,6.5,350,250,1900,2022
-QX50,Infiniti,AWD,Front,6.2,7.0,6.2,270,230,1800,2023
-XTS-V,Cadillac,RWD,Front,6.5,7.0,6.5,410,270,1900,2022
-MKZ,Lincoln,AWD,Front,6.0,7.0,6.0,350,230,1800,2022
-CX-5,Mazda,AWD,Front,6.0,6.5,6.0,200,200,1500,2023
-Nautilus,Lincoln,AWD,Front,6.0,7.0,6.0,300,230,1900,2022
-QX60,Infiniti,AWD,Front,6.2,7.0,6.2,295,230,2000,2022
-Cadenza,Kia,FWD,Front,6.0,6.8,6.0,290,220,1700,2023
-ESV,Cadillac,4WD,Front,6.0,7.0,6.0,420,220,2700,2022
-Gle Coupe,Mercedes-Benz,AWD,Front,6.5,7.0,6.5,350,230,2000,2022
-Aviator,Lincoln,AWD,Front,6.5,7.0,6.5,400,240,2100,2022
-Blazer,Chevrolet,FWD,Front,6.0,6.8,6.0,260,220,1700,2023
-CT6,Cadillac,AWD,Front,6.2,7.0,6.2,400,230,2000,2022
-XJ,Jaguar,RWD,Front,6.5,7.0,6.5,350,240,2000,2022
-Sorento,Kia,AWD,Front,6.0,7.0,6.0,290,220,1800,2023
-XT6-V,Cadillac,AWD,Front,6.5,7.0,6.5,400,240,2100,2022
-Cayman,Porsche,RWD,Rear,8.0,7.5,8.0,350,280,1300,2022
-M6,BMW,RWD,Front,8.0,8.5,8.0,600,280,1800,2023
-X6,Mercedes-Benz,AWD,Front,7.0,7.2,7.0,300,230,1900,2022
-GT500,Shelby,RWD,Front,8.0,8.5,8.0,760,320,1800,2022
-Challenger SRT,Dodge,RWD,Front,7.8,8.0,7.8,485,290,1800,2023
-Macan,Porsche,AWD,Front,7.2,7.0,7.2,300,230,1800,2022
-Pilot,Honda,AWD,Front,6.5,7.0,6.5,280,220,1900,2023
-QX80,Infiniti,4WD,Front,6.0,7.0,6.0,400,220,2500,2022
-GLB,Mercedes-Benz,AWD,Front,6.5,7.0,6.5,250,220,1600,2022
-Fusion,Ford,FWD,Front,6.0,6.5,6.0,175,200,1500,2023
-Impreza,Subaru,AWD,Front,6.0,6.8,6.0,150,190,1400,2022
-911 Turbo S,Porsche,AWD,Rear,8.5,8.8,9.0,650,330,1600,2023
-Pacifica,Chrysler,FWD,Front,6.0,6.5,6.0,280,220,2000,2022
-Avalon,Toyota,FWD,Front,6.5,6.8,6.5,300,230,1700,2023
-Continental,Lincoln,FWD,Front,6.0,6.8,6.0,335,240,1900,2022
-Macan Turbo,Porsche,AWD,Front,7.5,7.2,7.5,400,260,1900,2022
-CX-9,Mazda,AWD,Front,6.0,6.8,6.0,250,220,1800,2023
-Stinger,Kia,RWD,Front,7.0,7.5,7.0,365,270,1800,2022
-Fusion Hybrid,Ford,FWD,Front,6.0,6.2,6.0,190,190,1600,2023
-C-Class,Mercedes-Benz,RWD,Front,7.0,7.2,7.0,255,230,1700,2022
-Maxima,Nissan,FWD,Front,6.0,6.5,6.0,300,220,1800,2023
-S60,Volvo,AWD,Front,6.5,6.8,6.5,250,230,1700,2022
-Cruze,Chevrolet,FWD,Front,5.5,6.0,5.5,150,180,1200,2023
-Impala,Chevrolet,FWD,Front,6.0,6.5,6.0,260,220,1700,2022
-XC90,Volvo,AWD,Front,6.8,7.0,6.8,316,230,2200,2022
-Charger Hellcat,Dodge,RWD,Front,8.5,8.8,9.0,707,320,1900,2022
-Cayenne Turbo,Porsche,AWD,Front,7.8,8.0,7.8,550,290,2200,2022
-Q70,Infiniti,RWD,Front,6.5,7.0,6.5,330,250,1800,2022
-Explorer Hybrid,Ford,4WD,Front,6.2,6.8,6.2,318,230,2200,2022
+M3 BMW,RWD,Front,8.2,7.8,8.5,480,300,1600,2023
+911 Turbo S,Porsche,AWD,Rear,8.7,9.0,9.2,640,330,1600,2022
+Mustang Mach-E,Ford,RWD,Front,7.5,7.0,7.5,350,180,2200,2023
+DB11,Aston Martin,RWD,Front,8.0,8.5,8.0,600,320,1800,2021
+Civic Type R,Honda,FWD,Front,8.0,6.5,7.0,320,270,1400,2020
+Challenger SRT,Dodge,RWD,Front,8.5,8.0,8.5,485,290,1800,2023
+Huracan Evo,Lamborghini,AWD,Mid,9.0,9.0,9.5,640,325,1600,2022
+Taycan Turbo S,Porsche,AWD,Rear,8.8,9.0,9.2,750,280,2200,2022
+Cayman GT4,Porsche,RWD,Mid,8.5,8.2,8.7,420,310,1400,2021
+Raptor,Ford,4WD,Front,7.0,6.0,7.5,450,250,2400,2022
+488 Pista,Ferrari,RWD,Mid,9.2,9.0,9.5,720,340,1400,2020
+DB5,Aston Martin,RWD,Front,6.5,7.0,6.5,325,250,1500,1964
+Ford GT,Ford,RWD,Mid,9.0,9.0,9.5,650,330,1400,2022
+McLaren 720S,McLaren,RWD,Mid,9.0,9.0,9.5,710,341,1400,2021
+911 GT2 RS,Porsche,RWD,Rear,8.8,8.7,9.2,700,340,1400,2018
+Camaro ZL1,Chevrolet,RWD,Front,8.5,8.7,9.0,650,320,1700,2022
+F40,Ferrari,RWD,Mid,9.0,9.0,9.5,471,321,1100,1987
+DBS Superleggera,Aston Martin,RWD,Front,8.2,8.5,8.2,715,340,1800,2021
+F-150 Lightning,Ford,4WD,Front,7.0,7.0,7.5,400,180,2300,2022
+Chiron,Bugatti,AWD,Mid,9.5,9.8,9.5,1500,420,1900,2021
+R8 V10, Audi,AWD,Mid,8.5,8.2,8.7,610,330,1600,2021
+Sierra 1500, GMC, 4WD, Front, 6.5, 7.0, 6.5, 360, 220, 2500, 2022
+Camaro Z28,Chevrolet,RWD,Front,8.0,8.0,8.5,505,290,1600,1970
+Model S Plaid,Tesla,AWD,Rear,8.0,8.5,8.0,1020,200,2200,2022
+Corvette Z06,Chevrolet,RWD,Front,8.8,8.5,9.0,670,335,1500,2023
+Quattro,Audi,AWD,Front,7.8,7.0,7.5,200,215,1300,1980
+F-150 Raptor,Ford,4WD,Front,7.5,8.0,7.5,450,250,2400,2018
+GT40,Ford,RWD,Mid,9.0,9.0,9.5,500,335,1100,1966
+Sierra Cosworth,Ford,AWD,Front,8.0,8.5,8.0,220,240,1200,1986
+F40 Competizione,Ferrari,RWD,Mid,9.0,9.0,9.5,720,340,1100,1989
+300SL,Mercedes-Benz,RWD,Front,7.0,7.5,7.0,215,260,1300,1954
+P1800,Volvo,RWD,Front,7.5,8.0,7.5,118,170,1100,1963
+250 GTO,Ferrari,RWD,Front,8.5,9.0,9.0,296,280,880,1962
+E-Type, Jaguar, RWD, Front, 7.5, 8.0, 7.5, 265, 240, 1100, 1961
+DS 23, Citroen, FWD, Front, 6.5, 8.0, 6.5, 130, 170, 1200, 1974
+Cobra 427, AC, RWD, Front, 8.0, 9.0, 8.0, 425, 265, 1100, 1965
+Corvette Stingray,Chevrolet,RWD,Front,8.0,8.0,8.5,455,305,1500,1969
+GT-R R34,Nissan,AWD,Front,8.0,8.0,8.5,330,280,1600,1999
+Carrera GT,Porsche,RWD,Mid,9.0,9.0,9.5,612,330,1380,2004
+Charger SRT,Dodge,RWD,Front,8.0,8.0,8.5,485,250,1900,2022
+Countach LP5000 QV,Lamborghini,RWD,Mid,8.5,9.0,9.0,455,295,1500,1985
+Elise, Lotus, RWD, Mid, 8.5, 9.0, 9.0, 190, 242, 730, 1996
+F1, McLaren, RWD, Mid, 9.0, 9.5, 9.5, 627, 386, 1138, 1993
+Civic EG Honda, FWD, Front, 7.5, 8.0, 7.5, 168, 200, 1000, 1992
+Diablo SV,Lamborghini,RWD,Mid,8.5,8.5,9.0,510,325,1550,1995
+Raptor Ranger, Ford, 4WD, Front, 7.0, 7.0, 7.5, 270, 190, 2200, 2022
+Supra MK4, Toyota, RWD, Front, 8.0, 8.0, 8.5, 320, 250, 1500, 1994
+Rav4, Toyota, AWD, Front, 6.5, 7.0, 6.5, 120, 180, 1300, 1994
+300ZX, Nissan, RWD, Front, 7.5, 8.0, 7.5, 300, 250, 1400, 1996
+Agera RS,Koenigsegg,RWD,Mid,9.5,9.8,9.5,1360,278,1395,2017
+F-Type SVR,Jaguar,RWD,Front,8.5,8.5,9.0,575,322,1665,2017
+Chiron Super Sport,Bugatti,AWD,Mid,9.5,9.8,9.5,1600,273,1950,2021
+911 GT2 RS,Porsche,RWD,Rear,9.0,9.5,9.5,690,340,1470,2018
+Ford GT,Ford,RWD,Mid,9.0,9.0,9.5,647,347,1385,2017
+Senna,McLaren,RWD,Mid,9.5,10.0,9.5,789,335,1198,2019
+Huracan Performante,Lamborghini,AWD,Mid,9.0,9.0,9.5,631,325,1520,2018
+FXX-K Evo,Ferrari,RWD,Mid,9.5,9.8,9.5,1036,345,888,2018
+One-77,Aston Martin,RWD,Front,9.0,9.0,9.5,750,354,1630,2011
+AMG ONE,Mercedes-Benz,AWD,Mid,9.5,9.5,9.8,986,350,1600,2021
+Veyron Super Sport,Bugatti,AWD,Mid,9.0,9.0,9.5,1200,268,1838,2011
+570S,McLaren,RWD,Mid,8.5,9.0,9.0,562,328,1350,2015
+FXX,Ferrari,RWD,Mid,9.0,9.5,9.5,850,243,1155,2005
+Veneno,Lamborghini,AWD,Mid,9.0,9.0,9.5,750,355,1450,2014
+P1,McLaren,RWD,Mid,9.5,10.0,9.5,903,349,1395,2013
+Zonda R,Pagani,RWD,Mid,9.0,9.5,9.5,750,350,1070,2010
+LaFerrari,Ferrari,RWD,Mid,9.0,9.0,9.5,950,350,1255,2013
+Regera,Koenigsegg,RWD,Mid,9.5,10.0,9.5,1500,255,1590,2016
+Centenario,Lamborghini,AWD,Mid,9.0,9.0,9.5,759,349,1520,2017
+918 Spyder,Porsche,AWD,Mid,9.0,9.0,9.5,887,214,1675,2014
+Divo,Bugatti,AWD,Mid,9.5,9.8,9.5,1500,236,1980,2020
+Challenger Demon,Dodge,RWD,Front,8.5,9.0,9.0,808,203,1950,2018
+Zenvo TSR-S,Zenvo,RWD,Mid,9.2,9.3,9.5,1177,202,1695,2019
+Corvette C8,Chevrolet,RWD,Mid,9.0,9.0,9.5,495,305,1530,2020
+Huayra Roadster BC,Pagani,RWD,Mid,9.2,9.5,9.5,791,238,1250,2020
+Gallardo,Lamborghini,AWD,Mid,8.5,8.5,9.0,550,202,1500,2011
+BRZ,Subaru,RWD,Front,8.0,7.5,8.5,228,140,1250,2013
+600LT,McLaren,RWD,Mid,9.0,9.0,9.5,592,204,1247,2019
+Koenigsegg Jesko,Koenigsegg,RWD,Mid,9.8,10.0,9.8,1280,300,1320,2022
+Elva,McLaren,RWD,Mid,9.5,10.0,9.8,804,201,1151,2020
+Aventador SV,Lamborghini,AWD,Mid,9.0,9.0,9.5,750,220,1525,2015
+BMW M2,BMW,RWD,Front,8.2,8.0,8.5,405,250,1550,2019
+Agera R,Koenigsegg,RWD,Mid,9.5,9.8,9.5,1140,273,1290,2011
+Pista Piloti,Ferrari,RWD,Mid,9.2,9.0,9.5,720,340,1400,2021
+570S Spider,McLaren,RWD,Mid,8.5,9.0,9.0,562,328,1350,2017
+Vulcan AMR Pro,Aston Martin,RWD,Mid,9.5,9.5,9.8,820,361,1350,2019
+911 Turbo S,Porsche,AWD,Rear,8.7,9.0,9.2,640,330,1600,2022
+M5 Competition,BMW,AWD,Front,8.5,8.5,9.0,617,305,1870,2021
+G63 AMG,Mercedes-Benz,AWD,Front,7.5,7.5,8.0,577,220,2800,2019
+Z4,BMW,RWD,Front,8.0,8.5,8.5,382,250,1500,2019
+Mustang Boss 429,Ford,RWD,Front,8.0,8.0,8.5,375,237,1550,1969
+Chiron Pur Sport,Bugatti,AWD,Mid,9.5,9.8,9.5,1500,420,1900,2021
+Cayman GTS,Porsche,RWD,Mid,8.5,8.2,8.7,400,295,1400,2020
+RX-7,Mazda,RWD,Front,8.0,8.0,8.5,276,250,1260,2002
+Vantage AMR,Aston Martin,RWD,Front,8.5,8.5,9.0,503,314,1530,2021
+911 Carrera RS,Porsche,RWD,Rear,8.0,8.0,8.5,430,312,1230,1973
+R8 V10 Performance,Audi,AWD,Mid,8.5,8.2,8.7,620,331,1750,2021
+Civic Type R,Ford,FWD,Front,8.0,8.0,8.5,306,170,1380,2020
+F430,Ferrari,RWD,Mid,9.0,9.0,9.5,560,315,1450,2005
+FXX,Ferrari,RWD,Mid,9.0,9.5,9.5,850,243,1155,2005
+Veneno,Lamborghini,AWD,Mid,9.0,9.0,9.5,750,355,1450,2014
+One-77,Aston Martin,RWD,Front,9.0,9.0,9.5,750,354,1630,2011
+Aventador SVJ,Lamborghini,AWD,Mid,9.0,9.0,9.5,770,350,1525,2020
+M4,GTS BMW,RWD,Front,8.0,8.5,8.5,493,305,1580,2016
+ZR1,Chevrolet,RWD,Front,8.0,8.0,8.5,755,341,1614,2019
+GT-R50, Nissan, AWD, Front, 8.5, 8.5, 9.0, 710, 330, 1780, 2020
+F-150 Raptor, Ford, 4WD, Front, 7.5, 8.0, 7.5, 450, 250, 2400, 2018
+Bronco Raptor, Ford, 4WD, Front, 7.5, 8.0, 7.5, 400, 190, 2400, 2022
+GT3 Cup, Porsche, RWD, Rear, 8.0, 8.5, 8.5, 460, 270, 1200, 2022
+i4 M50, BMW, AWD, Front, 8.0, 8.0, 8.5, 536, 225, 2150, 2022
+P5, Ferrari, RWD, Mid, 9.0, 9.0, 9.5, 720, 340, 1300, 2019
+Grandsphere, Audi, AWD, Front, 8.0, 8.5, 8.5, 710, 210, 2300, 2022
+Omologata, Ferrari, RWD, Front, 8.5, 9.0, 9.0, 830, 340, 1450, 2020
+Essenza, Lamborghini, AWD, Mid, 9.0, 9.0, 9.5, 830, 350, 1320, 2020
+Astra VXR, Opel, FWD, Front, 7.0, 7.5, 7.0, 276, 250, 1500, 2007
+Gran Turismo, BMW, RWD, Front, 8.0, 8.5, 8.5, 600, 330, 1700, 2022
+Sierra 1500 AT4, GMC, 4WD, Front, 6.5, 7.0, 6.5, 355, 220, 2300, 2022
+AMG GT R, Mercedes-Benz, RWD, Front, 8.0, 8.0, 8.5, 577, 318, 1570, 2017
+Mustang GT, Ford, RWD, Front, 8.0, 8.0, 8.5, 460, 250, 1680, 2022
